@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  transform: translate(50%);
+  background-color: rgb(202, 100, 100);
+  color: aliceblue;
+}
